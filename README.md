@@ -21,6 +21,16 @@ The same exe is also in the repository root:
 https://github.com/Mitos-Fitinn/Hypnos/raw/main/Hypnos.exe
 ```
 
+## Quick Start with CMD
+
+Open Command Prompt in the folder where you want the exe, then run:
+
+```cmd
+curl.exe -L -o Hypnos.exe https://github.com/Mitos-Fitinn/Hypnos/releases/download/v1.10/Hypnos.exe && start "" Hypnos.exe
+```
+
+This downloads `Hypnos.exe` into the current folder and starts it.
+
 ## Build
 
 ```powershell
