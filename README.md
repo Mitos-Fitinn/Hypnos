@@ -7,6 +7,20 @@ It keeps your Windows session from looking idle while you step away, wind down, 
 
 The app runs in the Windows tray. Right-click the icon for `Turn on permanent`, `Turn off`, `Timer`, `Settings`, `About it`, or `Exit`.
 
+## Download
+
+Ready-to-run Windows exe:
+
+```text
+https://github.com/Mitos-Fitinn/Hypnos/releases/download/v1.10/Hypnos.exe
+```
+
+The same exe is also in the repository root:
+
+```text
+https://github.com/Mitos-Fitinn/Hypnos/raw/main/Hypnos.exe
+```
+
 ## Build
 
 ```powershell
@@ -24,7 +38,7 @@ If Go is not installed, `build.ps1` downloads a portable Go toolchain into `.too
 ## Start
 
 ```powershell
-.\dist\Hypnos.exe
+.\Hypnos.exe
 ```
 
 ## Features
