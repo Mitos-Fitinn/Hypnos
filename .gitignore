@@ -1,0 +1,6 @@
+.tools/
+build/
+dist/
+screenshots/
+*.exe
+!/Hypnos.exe
