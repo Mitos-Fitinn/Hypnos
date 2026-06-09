@@ -8,4 +8,4 @@ I hope this gives something back to the countless repos I use myself.
 
 A little payback for all employees.`
 
-const aboutWatermark = `Watermark: benderth`
+const aboutWatermark = `Watermark: MITOS`
